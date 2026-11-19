@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trion-gestionale": {
+      "type": "http",
+      "url": "https://gestionale.trionlab.it/api/mcp"
+    }
+  }
+}

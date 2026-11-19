@@ -1,0 +1,14 @@
+{
+  "name": "trion-gestionale",
+  "description": "Plugin Claude Code del gestionale Trion, per i Super Admin.",
+  "owner": {
+    "name": "Trion"
+  },
+  "plugins": [
+    {
+      "name": "trion",
+      "source": "./trion",
+      "description": "Procedure ricorrenti del Super Admin (clinica nuova, sede estera, listino, utenti, moduli) sul server MCP del gestionale."
+    }
+  ]
+}

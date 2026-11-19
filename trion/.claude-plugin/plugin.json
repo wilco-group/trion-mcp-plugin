@@ -1,0 +1,17 @@
+{
+  "name": "trion",
+  "displayName": "Trion gestionale",
+  "version": "0.2.0",
+  "description": "Procedure ricorrenti del Super Admin di Trion (clinica nuova, sede estera, listino, utenti, moduli) sul server MCP del gestionale.",
+  "author": {
+    "name": "Trion"
+  },
+  "homepage": "https://gestionale.trionlab.it",
+  "keywords": [
+    "trion",
+    "gestionale",
+    "mcp",
+    "super-admin"
+  ],
+  "repository": "https://github.com/wilco-group/trion-mcp-plugin"
+}
